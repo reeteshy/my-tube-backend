@@ -1,0 +1,29 @@
+{
+  "name": "me-tube",
+  "version": "1.0.0",
+  "description": "Creating a my tube straming service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeteshy/my-tube-backend.git"
+  },
+  "keywords": [
+    "node-backend",
+    "me-tube"
+  ],
+  "author": "Reetesh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reeteshy/my-tube-backend/issues"
+  },
+  "homepage": "https://github.com/reeteshy/my-tube-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
